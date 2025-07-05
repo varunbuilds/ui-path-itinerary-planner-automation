@@ -49,6 +49,7 @@ The **Smart Travel Planner** is a fully automated RPA bot built using **UiPath S
 ---
 
 ## 📁 Folder Structure
+```
 SmartTravelPlanner/
 │
 ├── MAIN.xaml                   # Main workflow file
@@ -58,7 +59,7 @@ SmartTravelPlanner/
 │   └── Templates/              # Word templates (if any used)
 └── Output/
 └── Itinerary.docx          # Final Word document generated
-
+```
 ---
 
 ## 📧 How to Use
