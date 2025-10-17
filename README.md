@@ -82,7 +82,7 @@ SmartTravelPlanner/
 
 ## 🧠 Author
 
-**Varun Rewadi**  
+**Varun**  
 Passionate about building stuff.
 
 ---
